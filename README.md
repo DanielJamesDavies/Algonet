@@ -1,5 +1,5 @@
-# The Prediction of Energy Consumption of Algorithm Implementations
+# Algonet / The Prediction of Energy Consumption of Algorithm Implementations
 
 ## System Overview Diagram
 
-![System Overview Diagram](SystemOverviewDiagram.png)
+<img src='SystemOverviewDiagram.png' alt='System Overview Diagram' width="640" />
