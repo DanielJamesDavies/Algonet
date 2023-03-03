@@ -1,0 +1,47 @@
+{
+  "algorithms": [
+    {
+      "algorithm": "preOrderDepthFirstSearch",
+      "iterations": 721476087,
+      "milliwatts": 33720.61604197996,
+      "milliwattsPerIter": 0.6169464792727573
+    },
+    {
+      "algorithm": "breadthFirstSearch",
+      "iterations": 788474647,
+      "milliwatts": 34006.13664455252,
+      "milliwattsPerIter": 0.5693030275811687
+    },
+    {
+      "algorithm": "dijkstrasAlgorithm",
+      "iterations": 350534795,
+      "milliwatts": 34192.94923986475,
+      "milliwattsPerIter": 1.2875952299292135
+    },
+    {
+      "algorithm": "primsAlgorithm",
+      "iterations": 346354808,
+      "milliwatts": 34098.14807909813,
+      "milliwattsPerIter": 1.2995216011093897
+    }
+  ],
+  "clusterSequence": [
+    10,
+    8,
+    6,
+    0,
+    1,
+    1,
+    0,
+    1,
+    3,
+    1,
+    0,
+    1,
+    3,
+    1,
+    0,
+    1,
+    0
+  ]
+}

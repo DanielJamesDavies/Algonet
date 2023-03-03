@@ -1,0 +1,48 @@
+{
+  "algorithms": [
+    {
+      "algorithm": "randomMutationHillClimbing",
+      "iterations": 215547259,
+      "milliwatts": 34567.75680493028,
+      "milliwattsPerIter": 2.1169111216815786
+    },
+    {
+      "algorithm": "randomRestartHillClimbing",
+      "iterations": 187048430,
+      "milliwatts": 34283.768209253685,
+      "milliwattsPerIter": 2.4194041102731987
+    },
+    {
+      "algorithm": "stochasticHillClimbing",
+      "iterations": 197925989,
+      "milliwatts": 33637.271042427456,
+      "milliwattsPerIter": 2.243323274539972
+    },
+    {
+      "algorithm": "simulatedAnnealing",
+      "iterations": 192436560,
+      "milliwatts": 33438.78207910063,
+      "milliwattsPerIter": 2.2937009653681626
+    }
+  ],
+  "clusterSequence": [
+    10,
+    8,
+    4,
+    0,
+    1,
+    3,
+    1,
+    0,
+    1,
+    12,
+    11,
+    0,
+    1,
+    3,
+    1,
+    0,
+    1,
+    0
+  ]
+}

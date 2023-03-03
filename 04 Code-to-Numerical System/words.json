@@ -1,0 +1,103 @@
+{
+  "keywords": [
+    "var",
+    "let",
+    "const",
+    "while",
+    "for",
+    "do",
+    "if",
+    "return",
+    "=",
+    "==",
+    "===",
+    "!==",
+    "!=",
+    ">==",
+    ">=",
+    ">",
+    "<==",
+    "<=",
+    "<",
+    "+",
+    "++",
+    "+=",
+    "-=",
+    "*=",
+    "-",
+    "--",
+    "*",
+    "/",
+    "%",
+    "||",
+    "&&",
+    "Math.floor",
+    "Math.random",
+    "Math.exp",
+    "Math.max",
+    "Math.min",
+    "Math.pow",
+    "Math.abs",
+    "recursive"
+  ],
+  "keyFunctions": [
+    "push",
+    "pop",
+    "splice",
+    "forEach",
+    "map",
+    "includes",
+    "join",
+    "split"
+  ],
+  "replaceWords": [
+    {
+      "from": "for",
+      "to": "loop"
+    },
+    {
+      "from": "while",
+      "to": "loop"
+    },
+    {
+      "from": "do",
+      "to": "loop"
+    },
+    {
+      "from": "forEach",
+      "to": "loop"
+    },
+    {
+      "from": "map",
+      "to": "loop"
+    },
+    {
+      "from": "Math.floor",
+      "to": "floor"
+    },
+    {
+      "from": "Math.random",
+      "to": "random"
+    },
+    {
+      "from": "Math.exp",
+      "to": "exp"
+    },
+    {
+      "from": "Math.max",
+      "to": "max"
+    },
+    {
+      "from": "Math.min",
+      "to": "min"
+    },
+    {
+      "from": "Math.pow",
+      "to": "pow"
+    },
+    {
+      "from": "Math.abs",
+      "to": "abs"
+    }
+  ]
+}

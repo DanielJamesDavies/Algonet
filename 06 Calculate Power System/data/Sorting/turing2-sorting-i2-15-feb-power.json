@@ -1,0 +1,56 @@
+{
+  "algorithms": [
+    {
+      "algorithm": "bogoSort",
+      "iterations": 4355,
+      "milliwatts": 34880.540715797004,
+      "milliwattsPerIter": 105722.87886303569
+    },
+    {
+      "algorithm": "bubbleSort",
+      "iterations": 6678971683,
+      "milliwatts": 30789.717789813134,
+      "milliwattsPerIter": 0.060851324742101524
+    },
+    {
+      "algorithm": "selectionSort",
+      "iterations": 6910912065,
+      "milliwatts": 29873.54493677727,
+      "milliwattsPerIter": 0.057059153619177176
+    },
+    {
+      "algorithm": "quickSort",
+      "iterations": 3283858593,
+      "milliwatts": 30316.264079095206,
+      "milliwattsPerIter": 0.12186111993283893
+    },
+    {
+      "algorithm": "radixSort",
+      "iterations": 448453919,
+      "milliwatts": 29440.70707910758,
+      "milliwattsPerIter": 0.8665713844374275
+    }
+  ],
+  "clusterSequence": [
+    10,
+    8,
+    4,
+    0,
+    1,
+    3,
+    1,
+    0,
+    1,
+    3,
+    1,
+    0,
+    1,
+    3,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+  ]
+}

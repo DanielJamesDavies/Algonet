@@ -1,0 +1,64 @@
+{
+  "runtime": 6600000,
+  "cooltime": 600000,
+  "algoType": 1,
+  "inputIndex": 1,
+  "sorting": {
+    "bogoSort": {
+      "iterations": 0,
+      "startTime": 0
+    },
+    "bubbleSort": {
+      "iterations": 0,
+      "startTime": 0
+    },
+    "selectionSort": {
+      "iterations": 0,
+      "startTime": 0
+    },
+    "quickSort": {
+      "iterations": 0,
+      "startTime": 0
+    },
+    "radixSort": {
+      "iterations": 0,
+      "startTime": 0
+    }
+  },
+  "graphs": {
+    "preOrderDepthFirstSearch": {
+      "iterations": 368316550,
+      "startTime": 1644451019583
+    },
+    "breadthFirstSearch": {
+      "iterations": 415215767,
+      "startTime": 1644458219596
+    },
+    "dijkstrasAlgorithm": {
+      "iterations": 184687807,
+      "startTime": 1644465419610
+    },
+    "primsAlgorithm": {
+      "iterations": 199981180,
+      "startTime": 1644472619615
+    }
+  },
+  "heuristicSearch": {
+    "randomMutationHillClimbing": {
+      "iterations": 0,
+      "startTime": 0
+    },
+    "randomRestartHillClimbing": {
+      "iterations": 0,
+      "startTime": 0
+    },
+    "stochasticHillClimbing": {
+      "iterations": 0,
+      "startTime": 0
+    },
+    "simulatedAnnealing": {
+      "iterations": 0,
+      "startTime": 0
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "algorithms": [
+    {
+      "algorithm": "binarySearchRecursive",
+      "iterations": 5336372759,
+      "milliwatts": 34128.579876507094,
+      "milliwattsPerIter": 0.08442012481420316
+    },
+    {
+      "algorithm": "binarySearchIterative",
+      "iterations": 5317529569,
+      "milliwatts": 33466.23326290129,
+      "milliwattsPerIter": 0.08307509593282282
+    },
+    {
+      "algorithm": "linearSearch",
+      "iterations": 5361095145,
+      "milliwatts": 32988.19707910694,
+      "milliwattsPerIter": 0.0812229944940124
+    },
+    {
+      "algorithm": "jumpSearch",
+      "iterations": 5328405958,
+      "milliwatts": 33090.05427105979,
+      "milliwattsPerIter": 0.08197361834306191
+    },
+    {
+      "algorithm": "interpolationSearch",
+      "iterations": 4779062484,
+      "milliwatts": 31730.688768060936,
+      "milliwattsPerIter": 0.08764168561107358
+    }
+  ],
+  "clusterSequence": [
+    10,
+    8,
+    0,
+    1,
+    3,
+    1,
+    0,
+    1,
+    3,
+    0,
+    1,
+    0,
+    1,
+    3,
+    1,
+    0,
+    1,
+    12,
+    1,
+    0
+  ]
+}

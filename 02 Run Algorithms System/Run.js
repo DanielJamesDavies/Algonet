@@ -146,7 +146,7 @@ async function run() {
 
 	// Save Data
 	var fileName =
-		"./run-data/turing2-" +
+		"./data/turing2-" +
 		(algoType === 0 ? "sorting" : algoType === 1 ? "graphs" : algoType === 2 ? "heuristic-search" : "searching") +
 		"-i" +
 		(inputIndex + 1) +
