@@ -1,18 +1,15 @@
 # Algonet / The Prediction of Energy Consumption of Algorithm Implementations
 
-<div style="display: flex; align-items: center; gap: 12px">
-<img src='Logo.png' alt='System Overview Diagram' width="100" />
-
-Predicting energy consumptions of algorithm implementations using AI.
-
+<div align="center">
+<img src='Logo.png' alt='System Overview Diagram' height="128" />
 </div>
+<br />
+Predicting energy consumptions of algorithm implementations using AI. This project's highest performing AI model produced a prediction to actual power consumption correlation of 0.97.
 <br />
 
 ## System Overview Diagram
 
 <img src='SystemOverviewDiagram.png' alt='System Overview Diagram' width="640" />
-
-<br />
 
 ## 01 Algorithm Implementations
 
@@ -22,8 +19,6 @@ A set of implementations of some widely known algorithms. They were used in this
 
 -   Node.js
 
-<br />
-
 ## 02 Run Algorithms System
 
 A system that runs a subset of the previous algorithm implementations, each on a loop for a specified amount of time.
@@ -31,8 +26,6 @@ A system that runs a subset of the previous algorithm implementations, each on a
 ### Dependencies
 
 -   Node.js
-
-<br />
 
 ## 03 Record Power System
 
@@ -42,8 +35,6 @@ A system that obtains present power data from a smart plug and records it. Inten
 
 -   Python
 -   PyP100 - for Record Power System
-
-<br />
 
 ## 04 Code-to-Numerial System
 
@@ -55,8 +46,6 @@ Uses a variation of the bag of words model where both words, operations, and the
 
 -   Node.js
 
-<br />
-
 ## 05 Remove Noise System
 
 A system that takes the wattage data, obtained by running the Record Power System, and produces a less noisy version of it by removing anomalies and flattening fluctuations.
@@ -64,8 +53,6 @@ A system that takes the wattage data, obtained by running the Record Power Syste
 ### Dependencies
 
 -   Node.js
-
-<br />
 
 ## 06 Calculate Power System
 
@@ -75,8 +62,6 @@ A system that calculates the milliwatts consumed per iteration of each algorithm
 
 -   Node.js
 
-<br />
-
 ## 07 Create Dataset System
 
 A system that takes all the results of both the Code-to-Numerical System and the Calculate Power System to generate a single dataset to be used by the AIs.
@@ -84,8 +69,6 @@ A system that takes all the results of both the Code-to-Numerical System and the
 ### Dependencies
 
 -   Node.js
-
-<br />
 
 ## 08 AI System 1
 
@@ -98,8 +81,6 @@ An AI system that attempts to predict the relative energy consumption of algorit
 -   scipy
 -   sklearn
 -   json
-
-<br />
 
 ## 09 AI System 2
 
