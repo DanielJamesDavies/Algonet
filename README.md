@@ -1,11 +1,6 @@
-# Algonet / The Prediction of Energy Consumption of Algorithm Implementations
+# <img src='Logo.png' alt='System Overview Diagram' height="64" style='padding-bottom: 8px; padding-right: 4px; vertical-align: middle;' /> Algonet & The Prediction of Energy Consumption of Algorithm Implementations
 
-<div align="center">
-<img src='Logo.png' alt='System Overview Diagram' height="128" />
-</div>
-<br />
 Predicting energy consumptions of algorithm implementations using AI. This project's highest performing AI model produced a prediction to actual power consumption correlation of 0.97.
-<br />
 
 ## System Overview Diagram
 
