@@ -28,8 +28,8 @@ A system that obtains present power data from a smart plug and records it. Inten
 
 ### Dependencies
 
--   Python
--   PyP100 - for Record Power System
+-   Node.js
+-   tp-link-tapo-connect
 
 ## 04 Code-to-Numerial System
 

@@ -1,0 +1,15 @@
+{
+  "name": "03-record-power-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gather.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tp-link-tapo-connect": "^1.0.8"
+  },
+  "type": "module"
+}
