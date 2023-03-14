@@ -65,7 +65,7 @@ A system that takes all the results of both the Code-to-Numerical System and the
 
 -   Node.js
 
-## 08 AI System 1
+## 08 Artificial Intelligence System 1
 
 An AI system that attempts to predict the relative energy consumption of algorithm implementations by calculating the cosine distance of each algorithm and clustering them using affinity propagation.
 
@@ -77,7 +77,7 @@ An AI system that attempts to predict the relative energy consumption of algorit
 -   sklearn
 -   json
 
-## 09 AI System 2
+## 09 Artificial Intelligence System 2
 
 A set of neural networks with different architectures and parameters that were trained to predict the energy consumption of algorithm implementations. The best subsystem produced a prediction to actual power consumption correlation of 0.97.
 
