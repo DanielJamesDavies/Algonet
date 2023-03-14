@@ -6,14 +6,17 @@ from sklearn.exceptions import ConvergenceWarning
 from warnings import simplefilter
 
 
-def train():
-	### Start of User-Definable Parameters
-	datasetFileName = "dataset.json"
-	isBogoSortInDataset = "true"
-	### End of User-Definable Parameters
 
+### Start of User-Definable Parameters
+datasetFileName = "dataset.json"
+isBogoSortInDataset = "true"
+### End of User-Definable Parameters
+
+
+
+def run():
 	# Get Data
-	with open("../07 Create Dataset/data/" + datasetFileName) as f:
+    with open("../07 Create Dataset/data/" + datasetFileName) as f:
 		dataset = json.load(f)["data"]
 
 	code = []
@@ -87,4 +90,4 @@ def train():
 
 		print(sumClustersPowerVariance)
 
-train()
+run()

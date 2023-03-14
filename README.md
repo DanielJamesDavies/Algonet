@@ -87,3 +87,4 @@ A set of neural networks with different architectures and parameters that were t
 -   PyTorch
 -   numpy
 -   json
+-   tabulate
